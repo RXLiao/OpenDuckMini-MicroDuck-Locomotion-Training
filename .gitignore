@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.rccl_compat/
+.venv/
+checkpoints/
+experiments/
+*.npz
+*.pkl
+*.log
