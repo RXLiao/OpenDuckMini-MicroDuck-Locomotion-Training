@@ -7,18 +7,13 @@ mode in the runtime.
 
 ## Demo videos
 
-### MuJoCo simulation
-
-<video src="./mujoco.mp4" controls width="100%"></video>
-
-[Open `mujoco.mp4`](./mujoco.mp4)
-
 ### Real-world test
 
-<video src="./realworld.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/c6ff4f49-1e8a-4cb6-8dd5-1342ca919889
 
-[Open `realworld.mp4`](./realworld.mp4)
+### MuJoCo simulation
 
+https://github.com/user-attachments/assets/69d749e8-d26b-4c3c-b6f1-05ff4a343198
 
 ## Contents
 
