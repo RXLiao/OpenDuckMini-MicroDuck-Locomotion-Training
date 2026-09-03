@@ -5,6 +5,21 @@ The PPO policy controls only the ten leg actuators. Head joints remain in the
 101-dimensional observation and are controlled externally by the head-command
 mode in the runtime.
 
+## Demo videos
+
+### MuJoCo simulation
+
+<video src="./mujoco.mp4" controls width="100%"></video>
+
+[Open `mujoco.mp4`](./mujoco.mp4)
+
+### Real-world test
+
+<video src="./realworld.mp4" controls width="100%"></video>
+
+[Open `realworld.mp4`](./realworld.mp4)
+
+
 ## Contents
 
 - `HEADLESS_WALK_10D_300M.onnx` — exported policy; input `(1, 101)`, output `(1, 10)`.
